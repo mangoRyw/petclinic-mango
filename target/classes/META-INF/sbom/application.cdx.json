@@ -1,7 +1,7 @@
 {
   "bomFormat" : "CycloneDX",
   "specVersion" : "1.6",
-  "serialNumber" : "urn:uuid:7ce7cccd-91b6-34b3-b2e0-c3b22f47be7d",
+  "serialNumber" : "urn:uuid:a7817774-79ad-39eb-9e49-a40890f44936",
   "version" : 1,
   "metadata" : {
     "lifecycles" : [
@@ -57,10 +57,10 @@
     },
     "component" : {
       "type" : "application",
-      "bom-ref" : "pkg:maven/org.springframework.samples/spring-petclinic-mango@3.4.0-SNAPSHOT?type=jar",
+      "bom-ref" : "pkg:maven/org.springframework.samples/petclinic-mango@6.0.0-SNAPSHOT?type=jar",
       "group" : "org.springframework.samples",
-      "name" : "spring-petclinic-mango",
-      "version" : "3.4.0-SNAPSHOT",
+      "name" : "petclinic-mango",
+      "version" : "6.0.0-SNAPSHOT",
       "description" : "Parent pom providing dependency and plugin management for applications built with Maven",
       "licenses" : [
         {
@@ -69,15 +69,15 @@
           }
         }
       ],
-      "purl" : "pkg:maven/org.springframework.samples/spring-petclinic-mango@3.4.0-SNAPSHOT?type=jar",
+      "purl" : "pkg:maven/org.springframework.samples/petclinic-mango@6.0.0-SNAPSHOT?type=jar",
       "externalReferences" : [
         {
           "type" : "website",
-          "url" : "https://spring.io/projects/spring-boot/spring-petclinic-mango"
+          "url" : "https://spring.io/projects/spring-boot/petclinic-mango"
         },
         {
           "type" : "vcs",
-          "url" : "https://github.com/spring-projects/spring-boot/spring-petclinic-mango"
+          "url" : "https://github.com/spring-projects/spring-boot/petclinic-mango"
         }
       ]
     },
@@ -6244,7 +6244,7 @@
   ],
   "dependencies" : [
     {
-      "ref" : "pkg:maven/org.springframework.samples/spring-petclinic-mango@3.4.0-SNAPSHOT?type=jar",
+      "ref" : "pkg:maven/org.springframework.samples/petclinic-mango@6.0.0-SNAPSHOT?type=jar",
       "dependsOn" : [
         "pkg:maven/org.springframework.boot/spring-boot-starter-actuator@3.4.2?type=jar",
         "pkg:maven/org.springframework.boot/spring-boot-starter-cache@3.4.2?type=jar",

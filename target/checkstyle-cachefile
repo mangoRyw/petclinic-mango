@@ -1,4 +1,4 @@
-#Mon May 12 23:02:35 CEST 2025
+#Mon May 12 23:19:31 CEST 2025
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.devcontainer\\Dockerfile=1747079673885
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.devcontainer\\devcontainer.json=1747079673885
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.editorconfig=1747079673886
@@ -9,6 +9,17 @@ D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.github\\workflows\
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.github\\workflows\\maven-build.yml=1747079673889
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gitignore=1747081035347
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gitpod.yml=1747079673889
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\checksums\\checksums.lock=1747084710400
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\checksums\\md5-checksums.bin=1747084682148
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\checksums\\sha1-checksums.bin=1747084690189
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\dependencies-accessors\\gc.properties=1747084710402
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\executionHistory\\executionHistory.lock=1747084710385
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\fileChanges\\last-build.bin=1747084710379
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\fileHashes\\fileHashes.lock=1747084710397
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\8.10.2\\gc.properties=1747084710417
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\buildOutputCleanup\\buildOutputCleanup.lock=1747084710384
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\buildOutputCleanup\\cache.properties=1747084654705
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.gradle\\vcs-1\\gc.properties=1747084710401
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\.mvn\\wrapper\\maven-wrapper.properties=1747079673890
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\LICENSE.txt=1747079673891
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\README.md=1747079673891
@@ -22,8 +33,8 @@ D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\k8s\\db.yml=1747079
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\k8s\\petclinic.yml=1747079673913
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\mvnw=1747079673914
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\mvnw.cmd=1747079673915
-D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\pom.xml=1747081527969
-D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\settings.gradle=1747083675771
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\pom.xml=1747084380946
+D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\settings.gradle=1747084380932
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\src\\checkstyle\\nohttp-checkstyle-suppressions.xml=1747079673917
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\src\\checkstyle\\nohttp-checkstyle.xml=1747079673917
 D\:\\Dokumenty\\Doit\\projekty-java\\spring-petclinic-mango\\src\\main\\java\\org\\springframework\\samples\\petclinic\\PetClinicApplication.java=1747079673919
