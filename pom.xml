@@ -10,10 +10,10 @@
   </parent>
 
   <groupId>org.springframework.samples</groupId>
-  <artifactId>spring-petclinic-copy</artifactId>
+  <artifactId>spring-petclinic-mango</artifactId>
   <version>3.4.0-SNAPSHOT</version>
 
-  <name>petclinic-copy</name>
+  <name>Spring PetClinic Mango Edition</name>
 
   <properties>
 
